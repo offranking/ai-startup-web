@@ -35,7 +35,7 @@ In Stage 2, I named the repository ai-startup-web and initialized it with a READ
 
 
  
- This step involves creating a new branch called update-navigation
+ n this step, I created a new branch named update-navigation to work on improvements to the site's navigation structure. This allows changes to be made and tested independently before merging them into the main branch.
 
  
  <img width="1004" alt="Update-navigation" src="https://github.com/user-attachments/assets/5f24420b-f267-4cfb-b6c6-c56e637430aa" />
@@ -60,10 +60,24 @@ In Stage 2, I named the repository ai-startup-web and initialized it with a READ
 
 <img width="1004" alt="git-pull" src="https://github.com/user-attachments/assets/db311c2e-c29b-4759-90cc-809d04e01663" />
 
- This records Jerry's changes in the branch history, along with a message detailing what was done.
+This records Jerry’s contributions in the branch history, along with a commit message describing the changes made.
 
 
 
 <img width="1004" alt="information" src="https://github.com/user-attachments/assets/03d1f169-3589-4132-8242-b846b59b7f0e" />
+
+
+# Part  (3) Mini Project - Git Branching and Merging
+
+<img width="980" alt="m u" src="https://github.com/user-attachments/assets/5f7381a3-b1b1-4de4-9181-558e7821b941" />
+
+The new git pull request
+
+
+<img width="957" alt="git--pull" src="https://github.com/user-attachments/assets/f729c105-1e68-408c-a2c2-01d14c2543e8" />
+
+
+
+
 
 
